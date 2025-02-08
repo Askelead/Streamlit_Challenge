@@ -1,5 +1,3 @@
-# Je n'ai pas créé de compte strealit cloud. Pour tester ce code, il va falloir le copi-colle dans votre vs-code et l'afficher dans votre navigateur.
-
 import streamlit as st
 from streamlit_option_menu import option_menu
 
